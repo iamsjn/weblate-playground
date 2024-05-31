@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Language: bn_BD\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "None"
+msgstr ""
+
+msgid "Actual"
+msgstr ""
+
+msgid "- {{totalEntries}} item(s)"
+msgstr ""
+
+msgid "-- Empty selection --"
+msgstr ""
+
+msgid "... and {{entries}} more."
+msgstr ""
+
+msgid "... which are called"
+msgstr ""
