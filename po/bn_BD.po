@@ -1,24 +1,30 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
+"PO-Revision-Date: 2024-05-31 09:47+0000\n"
+"Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
+"Language-Team: Bengali (Bangladesh) <http://weblate.example.com/projects/"
+"weblate-sandbox/weblate-playground/bn_BD/>\n"
 "Language: bn_BD\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 msgid "None"
 msgstr ""
 
 msgid "Actual"
-msgstr ""
+msgstr "Ashol"
 
 msgid "- {{totalEntries}} item(s)"
-msgstr ""
+msgstr "Sorbomot"
 
 msgid "-- Empty selection --"
 msgstr ""
 
 msgid "... and {{entries}} more."
-msgstr ""
+msgstr "Ebong aro"
 
 msgid "... which are called"
 msgstr ""
