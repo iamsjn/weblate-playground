@@ -21,3 +21,6 @@ msgstr ""
 
 msgid "... which are called"
 msgstr ""
+
+msgid "An item with the same name already exists"
+msgstr ""
