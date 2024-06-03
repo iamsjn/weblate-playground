@@ -24,3 +24,7 @@ msgstr ""
 
 msgid "An item with the same name already exists"
 msgstr ""
+
+msgid "An item jack with the same name already exists"
+msgstr ""
+
