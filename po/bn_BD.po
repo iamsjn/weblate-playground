@@ -27,8 +27,7 @@ msgid "... and {{entries}} more."
 msgstr "এবং"
 
 msgid "... which are called"
-msgstr "... ...যে যেমন"
+msgstr "...যে যেমন"
 
 msgid "Tree Item"
 msgstr ""
-
