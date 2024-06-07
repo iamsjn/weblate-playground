@@ -28,3 +28,7 @@ msgstr "এবং"
 
 msgid "... which are called"
 msgstr "... ...যে যেমন"
+
+msgid "Tree Item"
+msgstr ""
+
